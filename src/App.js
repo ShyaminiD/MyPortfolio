@@ -58,7 +58,7 @@ function App() {
             </Routes>
           </Content>
           <Footer style ={footerStyle}>
-          <a href="https://linkedin.com/in/shyaminidoddi" target="_blank">
+          <a href="https://linkedin.com/in/shyaminidoddi" target="_blank" rel="noreferrer">
             <img
              
               src="/linkedin_icon.png"
@@ -67,7 +67,7 @@ function App() {
               height="32px"
               />
             </a>
-            <a href="https://github.com/ShyaminiD" target="_blank">
+            <a href="https://github.com/ShyaminiD" target="_blank" rel="noreferrer">
             <img
               src="/github_square_icon.png"
               alt="GitHub Icon"
