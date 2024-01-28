@@ -1,7 +1,5 @@
 import "./App.css";
 import { Layout, Menu } from "antd";
-import { GithubOutlined } from "@ant-design/icons";
-import { Icon } from "antd";
 import { BrowserRouter as Router, Route, Routes, Link } from "react-router-dom";
 import About from "./About";
 import Skills from "./Skills";
